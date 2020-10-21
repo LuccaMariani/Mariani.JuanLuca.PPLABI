@@ -32,13 +32,41 @@
 			<Add option="-Wall" />
 		</Compiler>
 		<Unit filename="dataStore.h" />
-		<Unit filename="funciones.c">
+		<Unit filename="eCliente.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="funciones.h" />
+		<Unit filename="eCliente.h" />
+		<Unit filename="eColor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="eColor.h" />
+		<Unit filename="eFecha.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="eFecha.h" />
+		<Unit filename="eMoto.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="eMoto.h" />
+		<Unit filename="eServicio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="eServicio.h" />
+		<Unit filename="eTipo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="eTipo.h" />
+		<Unit filename="eTrabajo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="eTrabajo.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="validaciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="validaciones.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

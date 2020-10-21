@@ -1,0 +1,460 @@
+# depslib dependency file v1.0
+1601606251 source:e:\guille\universidad el retorno\programacion\trabajo practico n°2\tp2\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"persona.h"
+	"fecha.h"
+
+1601574827 source:e:\guille\universidad el retorno\programacion\trabajo practico n°2\tp2\trabajopractico2\fecha.c
+
+1601575178 e:\guille\universidad el retorno\programacion\trabajo practico n°2\tp2\trabajopractico2\persona.h
+	"fecha.h"
+
+1601574871 e:\guille\universidad el retorno\programacion\trabajo practico n°2\tp2\trabajopractico2\fecha.h
+
+1601575141 source:e:\guille\universidad el retorno\programacion\trabajo practico n°2\tp2\trabajopractico2\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"persona.h"
+	"fecha.h"
+
+1601574827 source:e:\guille\universidad el retorno\programacion\trabajo practico n°2\nueva carpeta\tp2\trabajopractico2\fecha.c
+
+1602117994 source:e:\guille\universidad el retorno\programacion\trabajo practico n°2\nueva carpeta\tp2\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"persona.h"
+	"fecha.h"
+
+1602116635 e:\guille\universidad el retorno\programacion\trabajo practico n°2\nueva carpeta\tp2\trabajopractico2\persona.h
+	"fecha.h"
+
+1602011071 e:\guille\universidad el retorno\programacion\trabajo practico n°2\nueva carpeta\tp2\trabajopractico2\fecha.h
+
+1602117667 e:\guille\universidad el retorno\programacion\trabajo practico n°2\nueva carpeta\tp2\trabajopractico2\datastore.h
+	"fecha.h"
+
+1602016016 source:e:\guille\universidad el retorno\programacion\trabajo practico n°2\nueva carpeta\tp2\trabajopractico2\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"persona.h"
+	"fecha.h"
+	"dataStore.h"
+
+1601574827 source:c:\users\sentey\documents\codeblocks\abm persona copia\trabajopractico2\fecha.c
+
+1602687318 source:c:\users\sentey\documents\codeblocks\abm persona copia\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"persona.h"
+
+1602687616 c:\users\sentey\documents\codeblocks\abm persona copia\trabajopractico2\persona.h
+	"fecha.h"
+
+1602677366 c:\users\sentey\documents\codeblocks\abm persona copia\trabajopractico2\fecha.h
+
+1602687864 source:c:\users\sentey\documents\codeblocks\abm persona copia\trabajopractico2\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"persona.h"
+	"dataStore.h"
+
+1602687318 c:\users\sentey\documents\codeblocks\abm persona copia\trabajopractico2\datastore.h
+	"fecha.h"
+
+1602688709 source:c:\users\sentey\desktop\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1602688669 source:c:\users\sentey\desktop\trabajopractico2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"dataStore.h"
+
+1602688835 c:\users\sentey\desktop\trabajopractico2\funciones.h
+
+1602688669 c:\users\sentey\desktop\trabajopractico2\datastore.h
+
+1602688669 source:c:\users\sentey\desktop\mariani.juanluca.pplabi\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"dataStore.h"
+
+1602688835 c:\users\sentey\desktop\mariani.juanluca.pplabi\funciones.h
+
+1602688669 c:\users\sentey\desktop\mariani.juanluca.pplabi\datastore.h
+
+1602688709 source:c:\users\sentey\desktop\mariani.juanluca.pplabi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1602688669 source:c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"dataStore.h"
+
+1603223024 c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\funciones.h
+
+1603266132 c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\datastore.h
+
+1603290497 source:c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\ecolor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eColor.h"
+	"dataStore.h"
+
+1603221921 source:c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\efecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eFecha.h"
+	"validaciones.h"
+
+1603290497 source:c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\emoto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eMoto.h"
+	"eColor.h"
+	"eTipo.h"
+	"eServicio.h"
+	"validaciones.h"
+	"dataStore.h"
+
+1603281554 source:c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\eservicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eServicio.h"
+	"validaciones.h"
+
+1603281563 source:c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\etipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eTipo.h"
+	"dataStore.h"
+	"validaciones.h"
+
+1603290497 source:c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\etrabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eTrabajo.h"
+	"eMoto.h"
+	"validaciones.h"
+
+1603290225 source:c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"dataStore.h"
+	"eColor.h"
+	"eFecha.h"
+	"eMoto.h"
+	"eServicio.h"
+	"eTipo.h"
+	"eTrabajo.h"
+	"validaciones.h"
+
+1603239084 c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\ecolor.h
+
+1603223015 c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\efecha.h
+
+1603290516 c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\emoto.h
+	"eColor.h"
+	"eTipo.h"
+	"eServicio.h"
+	"eCliente.h"
+
+1603242904 c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\eservicio.h
+
+1603239084 c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\etipo.h
+
+1603286976 c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\etrabajo.h
+	"eFecha.h"
+	"eMoto.h"
+
+1603286687 c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\validaciones.h
+	"eColor.h"
+	"eTipo.h"
+	"eMoto.h"
+
+1603286279 source:c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eColor.h"
+	"eTipo.h"
+	"eMoto.h"
+
+1603286630 c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\ecliente.h
+
+1603286593 source:c:\users\sentey\desktop\parcial 1 lab\mariani.juanluca.pplabi\ecliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eCliente.h"
+	"dataStore.h"
+
+1603286593 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\ecliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eCliente.h"
+	"dataStore.h"
+
+1603286630 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\ecliente.h
+
+1603266132 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\datastore.h
+
+1603290497 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\ecolor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eColor.h"
+	"dataStore.h"
+
+1603239084 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\ecolor.h
+
+1603221921 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\efecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eFecha.h"
+	"validaciones.h"
+
+1603223015 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\efecha.h
+
+1603286687 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\validaciones.h
+	"eColor.h"
+	"eTipo.h"
+	"eMoto.h"
+
+1603239084 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\etipo.h
+
+1603290516 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\emoto.h
+	"eColor.h"
+	"eTipo.h"
+	"eServicio.h"
+	"eCliente.h"
+
+1603242904 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\eservicio.h
+
+1603290497 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\emoto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eMoto.h"
+	"eColor.h"
+	"eTipo.h"
+	"eServicio.h"
+	"validaciones.h"
+	"dataStore.h"
+
+1603281554 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\eservicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eServicio.h"
+	"validaciones.h"
+
+1603281563 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\etipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eTipo.h"
+	"dataStore.h"
+	"validaciones.h"
+
+1603290497 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\etrabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eTrabajo.h"
+	"eMoto.h"
+	"validaciones.h"
+
+1603286976 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\etrabajo.h
+	"eFecha.h"
+	"eMoto.h"
+
+1603290225 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"dataStore.h"
+	"eColor.h"
+	"eFecha.h"
+	"eMoto.h"
+	"eServicio.h"
+	"eTipo.h"
+	"eTrabajo.h"
+	"validaciones.h"
+
+1603286279 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.progipp1a\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eColor.h"
+	"eTipo.h"
+	"eMoto.h"
+
+1603286593 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\ecliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eCliente.h"
+	"dataStore.h"
+
+1603286630 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\ecliente.h
+
+1603266132 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\datastore.h
+
+1603290497 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\ecolor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eColor.h"
+	"dataStore.h"
+
+1603239084 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\ecolor.h
+
+1603221921 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\efecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eFecha.h"
+	"validaciones.h"
+
+1603223015 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\efecha.h
+
+1603286687 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\validaciones.h
+	"eColor.h"
+	"eTipo.h"
+	"eMoto.h"
+
+1603239084 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\etipo.h
+
+1603290516 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\emoto.h
+	"eColor.h"
+	"eTipo.h"
+	"eServicio.h"
+	"eCliente.h"
+
+1603242904 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\eservicio.h
+
+1603290497 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\emoto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eMoto.h"
+	"eColor.h"
+	"eTipo.h"
+	"eServicio.h"
+	"validaciones.h"
+	"dataStore.h"
+
+1603281554 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\eservicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eServicio.h"
+	"validaciones.h"
+
+1603281563 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\etipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eTipo.h"
+	"dataStore.h"
+	"validaciones.h"
+
+1603290497 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\etrabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eTrabajo.h"
+	"eMoto.h"
+	"validaciones.h"
+
+1603286976 c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\etrabajo.h
+	"eFecha.h"
+	"eMoto.h"
+
+1603290715 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"dataStore.h"
+	"eColor.h"
+	"eFecha.h"
+	"eMoto.h"
+	"eServicio.h"
+	"eTipo.h"
+	"eTrabajo.h"
+	"validaciones.h"
+
+1603286279 source:c:\users\sentey\desktop\parcial 1 lab\carpeta github parcial\mariani.juanluca.pplabi\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eColor.h"
+	"eTipo.h"
+	"eMoto.h"
+
